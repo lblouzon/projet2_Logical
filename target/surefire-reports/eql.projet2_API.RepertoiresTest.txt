@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: eql.projet2_API.RepertoiresTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in eql.projet2_API.RepertoiresTest
+eql.projet2_API.RepertoiresTest.initializationError  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+
